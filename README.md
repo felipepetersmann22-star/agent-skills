@@ -7,3 +7,7 @@ This folder contains a proposed, independently written business-board review ski
 ## Usage-saving pack
 
 Seven skills and a weekly workflow that help assistants use less without losing anything important: `usage-saving`, `lean-chats`, `clean-and-compact`, `frugal-routines`, `cheap-delegation`, `reuse-before-research` and `weekly-cleanup-review`. They are in `skills/` alongside the skill above. See [`usage-saving/README.md`](usage-saving/README.md) for what each does, how to install them, and the weekly workflow. MIT licensed (see `usage-saving/LICENSE`).
+
+## Humanize
+
+- [`skills/humanize`](skills/humanize/SKILL.md): makes prose read like one careful person wrote it, without changing the facts. Structural tells first, then words, then a check that nothing was invented. Original synthesis of five MIT-licensed humanizer and anti-slop skills; credits and license notes in the folder.

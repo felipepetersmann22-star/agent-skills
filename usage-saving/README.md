@@ -1,5 +1,7 @@
 # Usage-saving pack
 
+> Legacy snapshot: these paths and commands remain available for compatibility. For the current standalone repositories and new installations, see the [repository index](../README.md).
+
 Seven small skills and one weekly workflow that help AI assistants and agents use less (fewer calls, less context, fewer scheduled wake-ups) without losing quality or anything important.
 
 The skills live next to the other skills in this repository, in [`../skills/`](../skills/).

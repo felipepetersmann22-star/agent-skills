@@ -1,13 +1,22 @@
-# Portable skills candidate
+# Agent skills: repository index
 
-This folder contains a proposed, independently written business-board review skill. It has no business records, credentials, local paths, or executable dependencies. It is a review candidate, not an installed or published package.
+Each skill now has its own repository. Use the individual repository as the primary source for new installations and updates.
 
-`skills/business-board-review/SKILL.md` combines independent perspectives, evidence boundaries, practical alternatives, and decision-focused synthesis. Its provenance links identify the methods consulted. Verify source licenses and repository ownership before distributing upstream materials. Publication, invitations, and access management are separate actions.
+| Skill | Repository |
+| --- | --- |
+| Business Board Review | [business-board-review-skill](https://github.com/felipepetersmann22-star/business-board-review-skill) |
+| Cheap Delegation | [cheap-delegation-skill](https://github.com/felipepetersmann22-star/cheap-delegation-skill) |
+| Clean and Compact | [clean-and-compact-skill](https://github.com/felipepetersmann22-star/clean-and-compact-skill) |
+| Design Review | [design-review-skill](https://github.com/felipepetersmann22-star/design-review-skill) |
+| Frugal Routines | [frugal-routines-skill](https://github.com/felipepetersmann22-star/frugal-routines-skill) |
+| Humanize | [humanize-skill](https://github.com/felipepetersmann22-star/humanize-skill) |
+| Lean Chats | [lean-chats-skill](https://github.com/felipepetersmann22-star/lean-chats-skill) |
+| Reuse Before Research | [reuse-before-research-skill](https://github.com/felipepetersmann22-star/reuse-before-research-skill) |
+| Usage Saving | [usage-saving-skill](https://github.com/felipepetersmann22-star/usage-saving-skill) |
+| Weekly Cleanup Review | [weekly-cleanup-review-skill](https://github.com/felipepetersmann22-star/weekly-cleanup-review-skill) |
 
-## Usage-saving pack
+## Compatibility
 
-Seven skills and a weekly workflow that help assistants use less without losing anything important: `usage-saving`, `lean-chats`, `clean-and-compact`, `frugal-routines`, `cheap-delegation`, `reuse-before-research` and `weekly-cleanup-review`. They are in `skills/` alongside the skill above. See [`usage-saving/README.md`](usage-saving/README.md) for what each does, how to install them, and the weekly workflow. MIT licensed (see `usage-saving/LICENSE`).
+The old `skills/` paths and [usage-saving pack documentation](usage-saving/README.md) are retained as legacy copies so existing links and installations keep working. They are a snapshot, not the primary location for future skill updates. New users should follow the installation instructions in each individual repository.
 
-## Humanize
-
-- [`skills/humanize`](skills/humanize/SKILL.md): makes prose read like one careful person wrote it, without changing the facts. Structural tells first, then words, then a check that nothing was invented. Original synthesis of five MIT-licensed humanizer and anti-slop skills; credits and license notes in the folder.
+The usage-saving skills can work together and refer to one another by name; install the companion skills your workflow needs. The original shared workflow, credits and MIT license remain in [`usage-saving/`](usage-saving/). Humanize retains its own third-party notices. The existing public Business Board Review skill did not specify a license; its new repository preserves that status.
